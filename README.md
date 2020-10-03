@@ -1,2 +1,2 @@
-# GitAdventureCodelearn
-I'm learning Git!
+# Git Adventure Time
+
